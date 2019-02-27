@@ -1,0 +1,6 @@
+image: alpine:latest
+
+test:
+  stage: test
+  script:
+    - echo "Foo"
